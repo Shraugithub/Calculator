@@ -17,7 +17,8 @@ h1{
     border: 1px solid #717377;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+/*     justify-content: center; */
+    align-items:center;
     height: 100vh;
     
 }
